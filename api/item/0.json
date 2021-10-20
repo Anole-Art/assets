@@ -1,0 +1,15 @@
+{
+  "name": "Name0",
+  "description": "Description0",
+  "image": "https://cloudflare-ipfs.com/ipfs/QmU6JyewEs1SjakvtZMd8vxapHt26YQhsUeqh9onTVmNMs/0.png",
+  "attributes": {
+    "0": {
+      "trait_type": "trait_type0-0",
+      "value": "00000"
+    },
+    "1": {
+      "trait_type": "trait_type0-1",
+      "value": "00001"
+    }
+  }
+}
